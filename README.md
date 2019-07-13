@@ -33,5 +33,5 @@ You'll also be given *optional* exercises that allow you to extend this project 
 - [x] Transfer learning (InceptionV3 with Keras)
 - [x] Visuaiize the Loss and Test Predictions
 - [x] Visualize results on real image 
-- [ ] Complete the pipeline
+- [ ] Complete the pipeline (Don't have camera)
   - [ ] Webcam test
